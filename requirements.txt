@@ -1,0 +1,6 @@
+# requirements.txt
+easyocr
+opencv-python
+matplotlib
+pillow
+pytesseract
